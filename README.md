@@ -8,7 +8,7 @@ Criar um código que defina uma classe de um herói para um jogo utilizando algu
 
 
 ## Contexto
-Utilizando uma linguagem de livre escolha, o desafio é criar uma classe genérica que represente um herói e receba algumas propriedades: Nome, Idade, Tipo. <br>A propriedade "Tipo" terá seus atributos: Guerreiro, Mago, Monge e Ninja.<br> Deve existir um método chamado<br> "Atacar" que atenda aos requisitos estipulados abaixo:
+Utilizando uma linguagem de livre escolha, o desafio é criar uma classe genérica que represente um herói e receba algumas propriedades: Nome, Idade, Tipo. <br>A propriedade "Tipo" terá seus atributos: Guerreiro, Mago, Monge e Ninja.<br> Deve existir um método chamado "Atacar" que atenda aos requisitos estipulados abaixo:
 
 - exibir a mensagem: "o {tipo} atacou usando {ataque}";<br>
 - onde o {tipo} deve ser concatenado com o tipo que está na propriedade da classe;<br>
@@ -40,5 +40,6 @@ Desenvolver a prática de criar classes incluindo funções e ou métodos e inst
 Ao final deve se exibir uma mensagem:
 
 - "o {tipo} atacou usando {ataque}"<br>
+
   ex: o mago atacou usando magia.<br>
       o guerreiro atacou usando espada.
