@@ -39,6 +39,6 @@ Desenvolver a prática de criar classes incluindo funções e ou métodos e inst
 
 Ao final deve se exibir uma mensagem:
 
-- "o {tipo} atacou usando {ataque}"
-  ex: o mago atacou usando magia.
+- "o {tipo} atacou usando {ataque}"<br>
+  ex: o mago atacou usando magia.<br>
       o guerreiro atacou usando espada.
